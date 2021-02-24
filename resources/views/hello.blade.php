@@ -3,7 +3,7 @@
 @section('main')
     <h1>Hello world!~</h1>
     
-    <h1>Trigger the pipeline!~</h1>
+    <h1>Trigger the pipeline!</h1>
     @if (count($errors) > 0)
     <div class="alert alert-danger">
         <ul>
